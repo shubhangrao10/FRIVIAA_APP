@@ -17,3 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ![image](https://github.com/shubhangrao10/FRIVIAA_APP/assets/69590800/ab577984-8c9e-4920-a45c-474360a00673)
 
+![image](https://github.com/shubhangrao10/FRIVIAA_APP/assets/69590800/8ce77cf0-b94e-4491-9f8d-41c9e03f6358)
